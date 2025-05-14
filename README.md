@@ -1,1 +1,1 @@
-# Sanjjay
+visually impaired  suffer regular constant challenges in identifying  & identifying by  their own they mostly depend on someone for even accessing their basic need so, its quite challenging task & technological solution for this is much needed this can be overcome by AI & ML system which allow the blind victims to identify & clearly read time based common data day to day objects & generate voice feed back whether this very close/far away from object the same used for obstacle detection system.
